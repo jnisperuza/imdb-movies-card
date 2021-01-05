@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "imdb-movies-card"
+    }
+  },
+  "defaultProject": "imdb-movies-card",
+  "cli": {
+    "analytics": false
+  }
 }
